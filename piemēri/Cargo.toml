@@ -1,0 +1,9 @@
+[package]
+name = "rūsas_piemēri"
+version = "0.1.0"
+edition = "2018"
+
+# Atrodi vairāk atslēgu un to definīcijas https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rusa = { path = "../rūsas_proc_makro/" }

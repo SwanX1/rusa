@@ -1,5 +1,5 @@
 [workspace]
 members = [
-    "rouille_proc_macro",
-    "examples"
+    "rūsas_proc_makro",
+    "piemēri"
 ]
